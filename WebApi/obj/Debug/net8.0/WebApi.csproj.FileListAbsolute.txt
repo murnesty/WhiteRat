@@ -107,3 +107,7 @@ C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\obj\Debug\net8.0\refint\WebApi.dl
 C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\bin\Debug\net8.0\Domain.dll
+C:\Users\kiwi\Documents\GitHub\WhiteRat\WebApi\bin\Debug\net8.0\Domain.pdb

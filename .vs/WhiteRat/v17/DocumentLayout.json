@@ -1,12 +1,258 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|solutionrelative:application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\domain\\primitives\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\domain\\primitives\\myerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\myerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EE915-EC46-4342-904B-9FA2D1CEF1CB}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\application\\users\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|solutionrelative:application\\users\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\application\\users\\commands\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|solutionrelative:application\\users\\commands\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94C6BF2-5FBB-4C31-A436-CC0E276198F4}|Presentation\\Presentation.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94C6BF2-5FBB-4C31-A436-CC0E276198F4}|Presentation\\Presentation.csproj|solutionrelative:presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3074DE5-A717-4B79-A8C6-2B5B3247D4A2}|Application\\Application.csproj|solutionrelative:application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|c:\\users\\kiwi\\documents\\github\\whiterat\\infrastructure\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF06964-BD97-4F8E-9422-BA41E2A9C5C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\respositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6C4619-26CC-4D15-8C62-185820230AB2}|Solution Items{2B6C4619-26CC-4D15-8C62-185820230AB2}|C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{2B6C4619-26CC-4D15-8C62-185820230AB2}|Solution Items{2B6C4619-26CC-4D15-8C62-185820230AB2}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6C4619-26CC-4D15-8C62-185820230AB2}|Solution Items{2B6C4619-26CC-4D15-8C62-185820230AB2}|C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2B6C4619-26CC-4D15-8C62-185820230AB2}|Solution Items{2B6C4619-26CC-4D15-8C62-185820230AB2}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-22T10:49:13.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\ValueObject.cs",
+              "RelativeToolTip": "Domain\\Primitives\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:59:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\Result.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\Result.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\Result.cs",
+              "RelativeToolTip": "Domain\\Primitives\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:58:39.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyError.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\MyError.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\MyError.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\MyError.cs",
+              "RelativeToolTip": "Domain\\Primitives\\MyError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:58:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\Entity.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "Domain\\Primitives\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:58:17.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\StartUp.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StartUp.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\StartUp.cs",
+              "RelativeToolTip": "Infrastructure\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:54:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:38:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Commands\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserHandler.cs",
+              "RelativeToolTip": "Application\\Users\\Commands\\CreateUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:36:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:35:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Presentation\\StartUp.cs",
+              "RelativeDocumentMoniker": "Presentation\\StartUp.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Presentation\\StartUp.cs",
+              "RelativeToolTip": "Presentation\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:55:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Commands\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\Users\\Commands\\CreateUserValidator.cs",
+              "RelativeToolTip": "Application\\Users\\Commands\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:36:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\StartUp.cs",
+              "RelativeDocumentMoniker": "Application\\StartUp.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Application\\StartUp.cs",
+              "RelativeToolTip": "Application\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:55:10.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\Respositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Respositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\Infrastructure\\Respositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Respositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:19.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\kiwi\\Documents\\GitHub\\WhiteRat\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T12:35:42.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
