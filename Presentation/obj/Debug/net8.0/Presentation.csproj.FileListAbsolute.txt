@@ -1,0 +1,5 @@
+C:\Users\kiwi\Documents\GitHub\WhiteRat\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\kiwi\Documents\GitHub\WhiteRat\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiwi\Documents\GitHub\WhiteRat\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\kiwi\Documents\GitHub\WhiteRat\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\kiwi\Documents\GitHub\WhiteRat\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
